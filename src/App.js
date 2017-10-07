@@ -9,7 +9,6 @@ class App extends Component {
       email: '',
       password: '',
       password2: '',
-      company: ''
     }
     this.handleChange = this.handleChange.bind(this)
     this.handleSubmit = this.handleSubmit.bind(this)
